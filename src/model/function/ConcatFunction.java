@@ -29,3 +29,4 @@ public class ConcatFunction extends FormulaFunction {
     return new StringFormula(str);
   }
 }
+
