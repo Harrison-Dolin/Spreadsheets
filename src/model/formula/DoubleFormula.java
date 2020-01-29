@@ -63,6 +63,5 @@ public class DoubleFormula implements ValueFormula {
     return Long.hashCode(Double.doubleToLongBits(this.val));
   }
 
-
 }
 
