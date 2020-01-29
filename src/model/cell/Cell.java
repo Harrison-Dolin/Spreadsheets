@@ -157,3 +157,4 @@ public class Cell implements CellInterface {
     return Objects.hash(this.userInput, this.coordinate);
   }
 }
+
