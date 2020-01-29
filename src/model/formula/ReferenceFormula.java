@@ -56,5 +56,4 @@ public class ReferenceFormula implements FormulaInterface {
     }
     return cyclicRef;
   }
-
 }
