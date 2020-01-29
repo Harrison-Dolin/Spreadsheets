@@ -51,5 +51,4 @@ public interface FormulaVisitor<R> {
    * @return the desired result
    */
   R visitReference(List<Coord> reference);
-
 }
