@@ -49,5 +49,4 @@ public interface CellInterface {
    * @return
    */
   String evaluatedInputAsString();
-
 }
