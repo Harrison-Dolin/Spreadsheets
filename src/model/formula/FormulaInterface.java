@@ -36,7 +36,6 @@ public interface FormulaInterface {
    */
   boolean depHelp(Stack<Coord> seen, SpreadSheetModel model);
 
-
   //everthing that is a formuala
   //value, reference, function
 }
