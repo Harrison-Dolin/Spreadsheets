@@ -58,6 +58,5 @@ public class StringFormula implements ValueFormula {
   public int hashCode() {
     return Long.hashCode(this.val.length());
   }
-
 }
 
