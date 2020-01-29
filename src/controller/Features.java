@@ -35,3 +35,4 @@ public interface Features extends edu.cs3500.spreadsheets.provider.controller.Fe
    */
   void setView(View view);
 }
+
