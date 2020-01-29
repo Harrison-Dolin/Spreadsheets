@@ -101,3 +101,4 @@ public class EditingView extends JFrame implements View {
     viewPanel.getCellGrid().addMouseListener(m);
   }
 }
+
