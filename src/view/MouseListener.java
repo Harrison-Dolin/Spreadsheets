@@ -77,5 +77,4 @@ public class MouseListener extends MouseAdapter {
       SELECTED_ROW = y / cellHeight;
     }
   }
-
 }
