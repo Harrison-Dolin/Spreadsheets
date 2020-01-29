@@ -56,5 +56,4 @@ public class ViewModel implements IViewModel {
   public int hashCode() {
     return Objects.hash(this.model);
   }
-
 }
