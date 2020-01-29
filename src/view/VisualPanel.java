@@ -296,5 +296,4 @@ public class VisualPanel extends JPanel implements ActionListener {
     cellGrid.revalidate();
     view.repaint();
   }
-
 }
