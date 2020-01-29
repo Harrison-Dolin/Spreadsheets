@@ -2,7 +2,6 @@ package edu.cs3500.spreadsheets.view;
 
 import javax.swing.JFrame;
 
-
 import edu.cs3500.spreadsheets.controller.Features;
 
 /**
