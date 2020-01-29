@@ -1,7 +1,6 @@
 package edu.cs3500.spreadsheets.model.cell;
 
 import java.util.Stack;
-
 import edu.cs3500.spreadsheets.model.Coord;
 import edu.cs3500.spreadsheets.model.formula.ValueFormula;
 
