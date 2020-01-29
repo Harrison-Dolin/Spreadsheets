@@ -28,5 +28,4 @@ public interface View {
    */
   void acceptMouseListener(MouseListener m);
 
-
 }
