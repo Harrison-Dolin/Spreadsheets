@@ -38,3 +38,4 @@ public interface IViewModel {
    */
   Coord getLowerBound();
 }
+
