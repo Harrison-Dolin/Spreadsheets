@@ -1,0 +1,18 @@
+A1 1
+A2 =3000
+B1 true
+C1 =true
+C87 =false
+AAAA4 =(SUM A1 A1)
+D2 "\"hello\""
+D3 "\"stuff\""
+A12 =(CONCAT D2 D3)
+A13 =(CONCAT "\"h\"" "\"i\"")
+A15 =(SUM A1 A2)
+A16 =(SUM A1:A2)
+A3 =(< A1 A2)
+A4 =(< 6 4)
+A5 =(PRODUCT A1:A2)
+A24 =(PRODUCT 12 4)
+A56 =A1
+A66 =A1:B6

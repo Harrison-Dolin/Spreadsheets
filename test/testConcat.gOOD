@@ -1,0 +1,6 @@
+A1 "cat"
+A2 "dog"
+B1 "dog"
+B2 =(CONCAT A1 B1)
+B3 =(CONCAT "hello" "sad")
+B4 =(CONCAT "hey" 4 false)

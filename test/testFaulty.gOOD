@@ -1,0 +1,8 @@
+A1 ---
+AA 9
+AA_ =(SUM 4 5)
+A2 (SUM 2)
+B1 9
+B2 (PRODUCT 5)
+B3 (< 9)
+B4 (CONCAT)
