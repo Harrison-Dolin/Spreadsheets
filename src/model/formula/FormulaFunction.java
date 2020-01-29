@@ -36,5 +36,4 @@ public abstract class FormulaFunction implements IFormulaFunction {
     return containsCycle;
   }
 
-
 }
