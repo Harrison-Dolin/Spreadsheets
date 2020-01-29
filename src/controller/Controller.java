@@ -3,7 +3,6 @@ package edu.cs3500.spreadsheets.controller;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-
 import javax.swing.JTextField;
 
 import edu.cs3500.spreadsheets.model.Coord;
