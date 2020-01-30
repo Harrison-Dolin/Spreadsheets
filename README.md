@@ -1,7 +1,7 @@
 # Spreadsheets
 Co Authored with Dania Ali Abuhijleh
 
-Written for the CS 3600 Object Oriented Design Class
+Written for Northeastern University CS 3600 Object Oriented Design Class
 
 Uploaded to github: 1/29/2020
 
